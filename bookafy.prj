@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>bookafy</name>
+   <name>Bookafy</name>
    <tag></tag>
-   <UUID>485af5de-3365-4e3f-a14f-4986c7b3a40c</UUID>
+   <UUID>f08c149e-1949-4e70-bb72-bb3d50389653</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -25,5 +25,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>
