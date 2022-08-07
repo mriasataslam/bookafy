@@ -1,2 +1,7 @@
 Added New File
+<<<<<<< HEAD
 Added another line
+=======
+Another new filed. .
+New Line added. .
+>>>>>>> branch 'master' of https://github.com/mriasataslam/bookafy.git
