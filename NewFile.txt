@@ -1,8 +1,0 @@
-Added New File
-<<<<<<< HEAD
-Added another line
-=======
-Another new filed. .
-New Line added. .
-New line from Katalon. .
->>>>>>> branch 'master' of https://github.com/mriasataslam/bookafy.git
