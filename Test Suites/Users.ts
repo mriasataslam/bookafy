@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Forget Password</name>
+   <name>Users</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>8dd28572-1a8e-4f0d-aa6c-fcedb48a26cc</testSuiteGuid>
+   <testSuiteGuid>3da4a2db-f1b1-4943-9655-2722101ace16</testSuiteGuid>
    <testCaseLink>
-      <guid>705b40b6-1c79-42b7-8edd-cb89176db689</guid>
+      <guid>0433c78e-a7b1-42b2-947a-3687a5308fae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Forget Password/Verify the forget password functionality</testCaseId>
+      <testCaseId>Test Cases/Users/Add New User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
