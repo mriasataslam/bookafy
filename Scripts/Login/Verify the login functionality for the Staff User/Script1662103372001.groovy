@@ -21,13 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://app.timelyscheduling.com/login')
 
-WebUI.setText(findTestObject('Object Repository/Admin_Login_OR/Page_Timely Scheduling - Online Scheduling _e5746f/input_Welcome back, Log in_useremail'), 
-    'mriasat+1310@clustox.com')
+WebUI.setText(findTestObject('Object Repository/Staff_Login_OR/Page_Timely Scheduling - Online Scheduling _e5746f/input_Welcome back, Log in_useremail'), 
+    'mriasat+1312@clustox.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Admin_Login_OR/Page_Timely Scheduling - Online Scheduling _e5746f/input_Welcome back, Log in_userpassword'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Staff_Login_OR/Page_Timely Scheduling - Online Scheduling _e5746f/input_Welcome back, Log in_userpassword'), 
     'oUW7L5NyS6fSbP6Rr94xnA==')
 
-WebUI.click(findTestObject('Object Repository/Admin_Login_OR/Page_Timely Scheduling - Online Scheduling _e5746f/input_Forgot Your Password_commit'))
+WebUI.click(findTestObject('Object Repository/Staff_Login_OR/Page_Timely Scheduling - Online Scheduling _e5746f/input_Forgot Your Password_commit'))
+
+WebUI.delay(5)
 
 WebUI.closeBrowser()
 

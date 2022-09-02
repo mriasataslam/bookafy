@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot Your Password</name>
+   <tag></tag>
+   <elementGuidId>a23529ae-abdc-4c23-a5ab-8f90b125079f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login_body']/div[3]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.new_password_link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>49d7fc4f-ac84-4e2d-a588-bf8d0b39d363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>new_password_link</value>
+      <webElementGuid>9e0333a1-1c58-4f22-9167-7b6d97159a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/users/password/new</value>
+      <webElementGuid>464b36ee-f31a-4e3d-9f1e-b6e2ffb3701a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot Your Password?</value>
+      <webElementGuid>d3afa3ed-5cf4-44f5-9292-1c6bdd51564c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_body&quot;)/div[@class=&quot;row form-group-checkbox&quot;]/div[@class=&quot;col-xs-7 col-sm-6 col-md-6 col-lg-6 class_padding_0 text_align_right&quot;]/div[1]/a[@class=&quot;new_password_link&quot;]</value>
+      <webElementGuid>2ff90055-498f-4a0c-88ac-f19c3316b545</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login_body']/div[3]/div[2]/div/a</value>
+      <webElementGuid>d7f3c860-815f-49c8-9066-a0b360257d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot Your Password?')]</value>
+      <webElementGuid>84d8b60f-4d2e-4c97-bdaa-8abc2be4d2cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/following::a[1]</value>
+      <webElementGuid>e6419f1d-1a24-4352-8261-94d9fc0b3cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter a valid email address.'])[1]/following::a[1]</value>
+      <webElementGuid>108cbc52-6856-45c7-8ee0-34a1c1e5b125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::a[1]</value>
+      <webElementGuid>5c0a0863-9064-489b-940a-41c9dccae4ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/preceding::a[2]</value>
+      <webElementGuid>a507b1fc-6fb4-4a44-948b-aec1b38c7116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot Your Password?']/parent::*</value>
+      <webElementGuid>c895d402-87a7-4e92-b91c-c3c80405379a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/users/password/new')]</value>
+      <webElementGuid>f040c050-98d0-4727-a87e-e9057a3aa7f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>2ead3464-2caa-4834-8125-00de99c15431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/users/password/new' and (text() = 'Forgot Your Password?' or . = 'Forgot Your Password?')]</value>
+      <webElementGuid>83d7aace-94c0-4bc5-b2e6-a5b2a4455bf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
