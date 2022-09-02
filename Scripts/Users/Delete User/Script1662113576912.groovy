@@ -33,11 +33,11 @@ WebUI.click(findTestObject('Object Repository/Delete_User_OR/Page_Timely Schedul
 
 WebUI.click(findTestObject('Object Repository/Delete_User_OR/Page_Timely Scheduling - Online Scheduling _e5746f/a_Settings'))
 
-WebUI.click(findTestObject('Object Repository/Delete_User_OR/Page_Timely Scheduling - Online Scheduling _e5746f/span_Users_icon-set'))
+WebUI.click(findTestObject('Delete_User_OR/Page_Timely Scheduling - Online Scheduling _e5746f/span_Users_icon-set'))
 
-WebUI.click(findTestObject('Object Repository/Delete_User_OR/Page_Timely Scheduling - Online Scheduling _e5746f/i_Assign Team Leader_fal fa-trash-alt  chan_b597a5'))
+WebUI.click(findTestObject('Delete_User_OR/Page_Timely Scheduling - Online Scheduling _e5746f/Page_Timely Scheduling - Online Scheduling Made Easy/i_Assign Team Leader_fal fa-trash-alt  change-white'))
 
-WebUI.click(findTestObject('Object Repository/Delete_User_OR/Page_Timely Scheduling - Online Scheduling _e5746f/button_Yes'))
+WebUI.acceptAlert(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 

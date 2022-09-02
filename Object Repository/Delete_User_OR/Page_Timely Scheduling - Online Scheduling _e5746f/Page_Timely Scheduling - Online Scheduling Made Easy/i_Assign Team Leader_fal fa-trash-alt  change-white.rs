@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Assign Team Leader_fal fa-trash-alt  change-white</name>
+   <tag></tag>
+   <elementGuidId>d6746255-12c5-42f6-82ee-b1fdfb0e21b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='43075']/table/tbody/tr/td[6]/div/div/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>02840be5-9304-47ea-a46a-9cefa4c2c0a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fal fa-trash-alt  change-white</value>
+      <webElementGuid>be684857-62b5-402e-b4d8-7f995440624d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;43075&quot;)/table[@class=&quot;table table-borderless fixed-table&quot;]/tbody[@class=&quot;border-bottom-light-silver&quot;]/tr[@class=&quot;row custom_field_group&quot;]/td[@class=&quot;col-md-2&quot;]/div[1]/div[1]/a[2]/i[@class=&quot;fal fa-trash-alt  change-white&quot;]</value>
+      <webElementGuid>a2c2d1dc-66a5-49e6-9c22-4e84d59e8505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='43075']/table/tbody/tr/td[6]/div/div/a[2]/i</value>
+      <webElementGuid>df37c3ca-6feb-482c-a9ee-968270ecefd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[6]/div/div/a[2]/i</value>
+      <webElementGuid>10ddc975-f46c-4513-b72e-ab9ea027e78e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
