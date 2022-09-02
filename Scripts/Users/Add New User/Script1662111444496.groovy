@@ -41,7 +41,7 @@ WebUI.setText(findTestObject('Object Repository/Add_New_User_OR/Page_Timely Sche
     'Ali')
 
 WebUI.setText(findTestObject('Object Repository/Add_New_User_OR/Page_Timely Scheduling - Online Scheduling _e5746f/input_Email_workeruser_attributesemail'), 
-    'mriasat+13121@clustox.com')
+    'mriasat+13122@clustox.com')
 
 WebUI.click(findTestObject('Object Repository/Add_New_User_OR/Page_Timely Scheduling - Online Scheduling _e5746f/input_Notes_commit'))
 
