@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify the login functionality for the Admin User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>919b4a38-c347-461a-b718-c7464fb6eb0c</testCaseGuid>
+</TestCaseEntity>
