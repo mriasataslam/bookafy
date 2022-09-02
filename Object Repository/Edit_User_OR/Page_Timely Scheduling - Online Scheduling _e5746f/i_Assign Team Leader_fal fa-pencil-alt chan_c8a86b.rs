@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Assign Team Leader_fal fa-pencil-alt chan_c8a86b</name>
+   <tag></tag>
+   <elementGuidId>0cc072c4-06d2-4190-b02b-667ea518fc74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='43074']/table/tbody/tr/td[6]/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#43074 > table.table.table-borderless.fixed-table > tbody.border-bottom-light-silver > tr.row.custom_field_group > td.col-md-2 > div > div > a.edit_worker > i.fal.fa-pencil-alt.change-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5d14f791-b1c2-4657-bb3b-5700162ca9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fal fa-pencil-alt change-white</value>
+      <webElementGuid>29c3d38d-3fd2-43bd-b9fc-0d7ee52fe1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;43074&quot;)/table[@class=&quot;table table-borderless fixed-table&quot;]/tbody[@class=&quot;border-bottom-light-silver&quot;]/tr[@class=&quot;row custom_field_group&quot;]/td[@class=&quot;col-md-2&quot;]/div[1]/div[1]/a[@class=&quot;edit_worker&quot;]/i[@class=&quot;fal fa-pencil-alt change-white&quot;]</value>
+      <webElementGuid>49217f0a-f003-4544-8a32-e34153b57ec1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='43074']/table/tbody/tr/td[6]/div/div/a/i</value>
+      <webElementGuid>292b2885-d667-422d-886d-ab0bb6bf3d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[6]/div/div/a/i</value>
+      <webElementGuid>8cd26798-66dc-4371-910d-efe0a9f199a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

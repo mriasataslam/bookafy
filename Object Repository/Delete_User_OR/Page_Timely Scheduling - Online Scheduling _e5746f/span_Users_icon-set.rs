@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Users_icon-set</name>
+   <tag></tag>
+   <elementGuidId>a748014a-e3a2-47f5-945f-2b26eeafbed8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftMenu']/div[2]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.accordion-toggle.staff_class > span.icon-set</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a057c99b-c42b-4683-8a31-c4ea21e4ef20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-set</value>
+      <webElementGuid>8e018d82-7722-4b8c-8c1e-bbe97697beb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftMenu&quot;)/div[@class=&quot;accordion-group&quot;]/div[@class=&quot;accordion-heading&quot;]/a[@class=&quot;accordion-toggle staff_class&quot;]/span[@class=&quot;icon-set&quot;]</value>
+      <webElementGuid>155060de-8ee3-4abd-bb71-2acec7844a37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftMenu']/div[2]/div/a/span</value>
+      <webElementGuid>a9b4ad98-ce9a-451d-aa06-d00b64c136db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is one'])[1]/preceding::span[2]</value>
+      <webElementGuid>f13c8de0-ce1a-4d79-903a-e5f1fdc182fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/span</value>
+      <webElementGuid>56334c27-8b4e-449d-a81d-8a214e2e38f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
